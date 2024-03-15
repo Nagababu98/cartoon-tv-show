@@ -1,0 +1,18 @@
+
+.mainpage{
+    background: url("https://resize.indiatvnews.com/en/resize/newbucket/730_-/2022/10/cn-1665761734.jpg");
+}
+.main{
+    display: flex;
+    justify-content: space-between; 
+    color: hsl(63, 89%, 52%);
+}
+h1{
+    
+    color: hwb(57 5% 16%);
+    background: black;
+}
+
+#mainh2{
+    background: black;
+}
